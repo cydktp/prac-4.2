@@ -1,7 +1,6 @@
 h1#head1 {
     color: #5a0b08;
 }
-
 h1#head1 {
     text-align: center;
 }
@@ -14,9 +13,9 @@ a.texto1 {
     font-size: x-large;
 }
 
-img.img1 {
-    height: 100px;
-    width: 100px;
+img.size1 {
+    height: 200px;
+    width: 200px;
 }
 
 div.texto2 {
@@ -25,9 +24,9 @@ div.texto2 {
     
 }
 
-img.img2 {
-    height: 100px;
-    width: 100px;
+img.size2 {
+    height: 200px;
+    width: 200px;
     text-align: center
 }
 
@@ -35,9 +34,9 @@ a.colortexto {
     color: #9f5b55;
 }
 
-img.img3 {
-    height: 100px;
-    width: 100px;
+img.size3 {
+    height: 200px;
+    width: 200px;
 }
 
 div.texto3 {
